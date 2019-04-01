@@ -1,9 +1,5 @@
 # first-repo
 My first repository
-<<<<<<< .mine
 test.txt.
+"hello my first-repo"
 
-=======
-if(true)
-{"hello my first-repo"}
->>>>>>> .theirs
